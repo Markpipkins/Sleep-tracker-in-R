@@ -3,3 +3,6 @@ sleep.csv
 .RData
 .Rproj.user/
 *.Rproj
+admin.R
+Rplots.pdf
+tempCodeRunnerFile.R

@@ -273,8 +273,8 @@ check_Date <- function(dateGiven = NULL) {
 }
 
 # This displays 2 graphs in a 2x1 grid:
-# 1. line graph of sleep per entry over time
-# 2. sleep quality and hours slept
+# 1. line graph of hours of sleep per entry over time
+# 2. scatter plot of correlation between sleep quality and hours slept
 display_Sleep_Data <- function() {
   # loads the data first
   data <- load_Sleep_Data()
