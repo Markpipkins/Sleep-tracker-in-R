@@ -85,4 +85,4 @@ The purpose of this project is to practice R programming while creating a useful
 ## Example Graphs
 
 
-<img**src**=**"assets/sleep-graphs.png"**alt**=**"Example sleep tracker graphs showing hours slept over time and sleep quality compared with hours slept"**width**=**"700"**>
+![Example graphs of hours slept over time and sleep quality compared with hours slept](Images/sleep-graphs.png)
